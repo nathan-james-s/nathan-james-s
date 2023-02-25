@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-I am a student at Grand Valley State University majoring in Computer Science with a specialization in software development. :man_office_worker: :desktop_computer: I enjoy working with teams to develop, learn, and solve problems!
+I am a student at Grand Valley State University majoring in Computer Science with a specialization in software development. 🧑‍💻 I enjoy working with teams to develop, learn, and solve problems!
 
 ## Learning/Developing:
 - Programming Python :snake:
