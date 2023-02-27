@@ -5,7 +5,7 @@ I am a student at Grand Valley State University studying Computer Science with a
 ## Learning/Developing:
 - Programming Python :snake:
 - Front-end language :building_construction:
-- Learning open-source development :earth_africa:
+- Open-source development :earth_africa:
 
 ## Current Projects:
 - HR_SYSTEM (Private Until Completion)
