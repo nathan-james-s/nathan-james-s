@@ -7,9 +7,6 @@ I am a student at Grand Valley State University studying Computer Science with a
 - Front-end language :building_construction:
 - Open-source development :earth_africa:
 
-## Current Projects:
-- HR_SYSTEM (Private Until Completion)
-- If you have any ideas, please let me know 😄
 
 ## Socials:
 - [LinkedIn](https://www.linkedin.com/in/nathan-strandberg-275b4a1a7/)
