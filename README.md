@@ -4,11 +4,10 @@ I am a student at Grand Valley State University studying Computer Science with a
 
 ## Learning/Developing:
 - Programming Python :snake:
-- Front-end language :building_construction:
-- Open-source development :earth_africa:
+- Front-end Language :building_construction:
+- Expanding My Knowledge! :earth_africa:
 
 
 ## Socials:
 - [LinkedIn](https://www.linkedin.com/in/nathan-strandberg-275b4a1a7/)
-- [Instagram](https://www.instagram.com/n8_strandberg/)
 
