@@ -4,7 +4,9 @@ I am a student at Grand Valley State University studying Computer Science with a
 
 ## Learning/Developing:
 - Programming Python :snake:
-- Front-end Language :building_construction:
+- Data Structures & Algorithms :bar_chart:
+- Programming JavaScript :scroll:
+- SAFe Agile :recycle:
 - Expanding My Knowledge! :earth_africa:
 
 
